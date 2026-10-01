@@ -16,3 +16,4 @@ npm run dev
 npm run validate   # checks every graph reference (bun)
 ```
 Data lives in `src/data/positions.ts` and `src/data/techniques.ts`.
+
